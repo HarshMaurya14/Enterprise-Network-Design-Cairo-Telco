@@ -45,7 +45,7 @@ This project presents the design and implementation of an enterprise-level netwo
 - Seamless wireless connectivity across floors
 - Cloud access to Azure resources
 
-- ## Design Decisions
+## Design Decisions
 
 - VLAN segmentation was used to separate traffic types (data, wireless, VoIP) for better performance and security.
 - A DMZ was implemented to isolate critical servers from the internal network while allowing controlled external access.
