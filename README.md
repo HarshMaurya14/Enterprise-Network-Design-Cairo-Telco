@@ -16,7 +16,7 @@ This project presents the design and implementation of an enterprise-level netwo
 ---
 
 ## Network Architecture
-![Network Diagram](network_diagram.png)
+![Network Diagram](network.jpeg)
 
 ---
 
